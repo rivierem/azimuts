@@ -1,2 +1,2 @@
-# workflow
-Banc d'essai pour les technologies améliorant le workflow - Objectifs : Apprendre, essayer et rédiger des cours compréhensibles pour tous les glands de français...
+# tous-azimuts.org
+Refonte du site tous-azimuts.org -  Azimut accueille et réunit des individus et des organismes aux expertises à la fois diverses et complémentaires afin d'enrayer la dégradation d’un environnement liée à la pauvreté.
